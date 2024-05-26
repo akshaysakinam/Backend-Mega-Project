@@ -1,4 +1,4 @@
-# chai aur backend series 
+# chai aur backend series
 
 This is a project made from chai aur backend series
 
